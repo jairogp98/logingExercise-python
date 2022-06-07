@@ -1,0 +1,1 @@
+Exercise creating a decorator which manage the response of the decorated function and writes it in a .txt file.
